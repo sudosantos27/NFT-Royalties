@@ -1,8 +1,8 @@
 # NFT Royalties w/ EIP 2981
 
 ## Technology Stack & Tools
-- Solidity (Writing Smart Contracts & Tests)
-- Javascript (React & Testing)
+- Solidity (Writing Smart Contracts)
+- Javascript (Testing)
 - [Hardhat](https://hardhat.org/) (Development Framework)
 - [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/) (Smart Contract Library)
